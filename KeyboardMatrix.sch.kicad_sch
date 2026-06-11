@@ -2254,7 +2254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -2436,7 +2436,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 193.04 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -2516,7 +2516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 116.84 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -2596,7 +2596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -2778,7 +2778,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 116.84 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2858,7 +2858,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -2938,7 +2938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 116.84 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3426,7 +3426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4016,7 +4016,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4198,7 +4198,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4278,7 +4278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4358,7 +4358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4438,7 +4438,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -4518,7 +4518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4700,7 +4700,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4862,7 +4862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "615372eb-7eae-43ec-b7b7-b57a1d426bf1")
-		(property "Reference" "D37"
+		(property "Reference" "D36"
 			(at 148.59 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4946,7 +4946,7 @@
 		(instances
 			(project "Split Keyboard"
 				(path "/2cdc3fbd-f3ff-412c-a809-7e2f4dbd156a/763d1cfc-4401-4aac-ad6b-7ea06fb08f8c"
-					(reference "D37")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -4984,7 +4984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -5370,7 +5370,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -5450,7 +5450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5530,7 +5530,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6018,7 +6018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6098,7 +6098,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6280,7 +6280,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6462,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6848,7 +6848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6928,7 +6928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7110,7 +7110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 91.44 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -7292,7 +7292,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7372,7 +7372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 116.84 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7554,7 +7554,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7634,7 +7634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7816,7 +7816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 167.64 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7896,7 +7896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7976,7 +7976,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 40.64 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -8158,7 +8158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 116.84 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -8320,7 +8320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb10ce6b-7683-49fc-af91-a92c646ad4b8")
-		(property "Reference" "SW37"
+		(property "Reference" "SW36"
 			(at 142.24 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8340,7 +8340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 142.24 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -8382,7 +8382,7 @@
 		(instances
 			(project "Split Keyboard"
 				(path "/2cdc3fbd-f3ff-412c-a809-7e2f4dbd156a/763d1cfc-4401-4aac-ad6b-7ea06fb08f8c"
-					(reference "SW37")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -8522,7 +8522,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 193.04 40.64 0)
 			(hide yes)
 			(show_name no)
